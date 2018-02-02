@@ -1,0 +1,1 @@
+# sails-login-mogodb
